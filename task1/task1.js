@@ -23,7 +23,15 @@ const apple_pie = 50 // the const keyword was also introduced in the ES6(2015) v
 var pineapple = 20 // var is used in the older versions of javascript | var is function scoped 
 
 
-console.log({ Firstname: `Jason`, Lastname: `Anderson`, age: 50, country: `USA`, hobby: `playing piano`, occupation: `None` })
+let firstname = "Jason"
+let Lastname = "Anderson"
+let age = 50
+let country = "USA"
+let hobby = "playing Piano"
+let occupationa = "none"
+
+console.log(`My name is ${firstname} and surname is ${Lastname}, My age is ${age} i live in ${country} my hobby is ${hobby} and my occupation at the moment is ${occupationa}`)
+    // console.log({ Firstname: `Jason`, Lastname: `Anderson`, age: 50, country: `USA`, hobby: `playing piano`, occupation: `None` })
 
 
 
