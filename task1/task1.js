@@ -30,7 +30,7 @@ let country = "USA"
 let hobby = "playing Piano"
 let occupationa = "none"
 
-console.log(`My name is ${firstname} and surname is ${Lastname}, My age is ${age} i live in ${country} my hobby is ${hobby} and my occupation at the moment is ${occupationa}`)
+console.log(`My name is ${firstname} and surname is ${Lastname}, My age is ${age} i live in ${country} my hobby is ${hobby} and my occupation at the moment is $`)
     // console.log({ Firstname: `Jason`, Lastname: `Anderson`, age: 50, country: `USA`, hobby: `playing piano`, occupation: `None` })
 
 
